@@ -19,6 +19,9 @@ An automated SQL injection testing to uncover backend database vulnerabilities.
    ```
    playwright install chromium
    ```
+   ```
+   playwright install
+   ```
 
 ---
 
