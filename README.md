@@ -1,4 +1,4 @@
-# SQL-Injection 💉
+# SQL-Scanner💉
 
 An automated SQL injection testing to uncover backend database vulnerabilities.
 
